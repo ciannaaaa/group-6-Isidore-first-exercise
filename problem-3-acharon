@@ -1,9 +1,0 @@
- 1. This will cause a TypeError
-age = 16
- print("I am Rav Adam Acharon " + age + " years old")
-
- 2. Fix using str()
-print("I am Rav Adam Acharon " + str(age) + " years old")
-
- 3. Using an f-string
-print(f"I am Rav Adam Acharon {age} years old")
