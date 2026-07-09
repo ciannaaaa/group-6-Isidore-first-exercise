@@ -1,0 +1,11 @@
+# Create the variable
+age = 16
+
+# 1. This will cause a TypeError
+# print("I am Rav Adam Acharon " + age + " years old")
+
+# 2. Fix it using str()
+print("I am Rav Adam Acharon " + str(age) + " years old")
+
+# 3. Print it again using an f-string
+print(f"I am Rav Adam Acharon {age} years old")
