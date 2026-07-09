@@ -11,3 +11,5 @@ print(f"Name    : {name}")
 print(f"Age     : {age}")
 print(f"Subject : {subject}")
 print("==========================")
+
+# use input() function for name age and subject
